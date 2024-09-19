@@ -1,3 +1,4 @@
+
 ## The implementation of a simple calculator
 
 ## main()
@@ -5,8 +6,6 @@
 ## subtract()
 ## multiply()
 ## divide()
-def divide (x, y):
-  if y == 0:
-    print("На ноль делить нельзя")
-  else: return(x / y)
+def add (x, y):
+  return(x + y)
 ## parse()
